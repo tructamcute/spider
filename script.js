@@ -1,5 +1,5 @@
 let w, h;
-const ctx = canvas.getContext("2d");
+const center = canvas.getContext("2d");
 const { sin, cos, PI, hypot, min, max } = Math;
 
 
