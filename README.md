@@ -1,4 +1,3 @@
-<title>Spider</title>
 <html lang="en">
 <head>
     <style>
@@ -23,8 +22,8 @@ const { sin, cos, PI, hypot, min, max } = Math;
 function spawn() {
     const pts = many(333, () => {
         return {
-            x: rnd(innerWidth),
-            y: rnd(innerHeight),
+            x: rnd(1000),
+            y: rnd(1000),
             len: 0,
             r: 0
         };
