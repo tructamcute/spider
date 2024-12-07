@@ -1,12 +1,10 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <!-- Required meta tags -->
+    <title>Spider</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- CSS -->
-    <link rel="stylesheet" href="style.css">
-    <title>Spider following cursor animation using HTML CSS and JavaScript - Coding Torque</title>
+    <link rel="stylesheet" href="style.css">    
 </head>
 <body>
     <canvas id="canvas"><canvas>
