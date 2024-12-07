@@ -1,0 +1,14 @@
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css">
+    <title>Spider following cursor animation using HTML CSS and JavaScript - Coding Torque</title>
+</head>
+<body>
+    <canvas id="canvas"><canvas>
+    <script src="script.js"></script>
+</body>
+</html>
