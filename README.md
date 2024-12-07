@@ -35,10 +35,10 @@ function spawn() {
         };
     });
     let seed = rnd(100)
-    let tx = rnd(innerWidth); 
-    let ty = rnd(innerHeight);
-    let x = rnd(innerWidth)
-    let y = rnd(innerHeight)
+    let tx = rnd(1000); 
+    let ty = rnd(1000);
+    let x = rnd(1000)
+    let y = rnd(1000)
     let kx = rnd(0.5, 0.5)
     let ky = rnd(0.5, 0.5)
     let walkRadius = pt(rnd(50,50), rnd(50,50))
