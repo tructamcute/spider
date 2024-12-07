@@ -1,3 +1,5 @@
+<!doctype html>
+<html lang="en">
 <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -10,4 +12,4 @@
     <canvas id="canvas"><canvas>
     <script src="script.js"></script>
 </body>
-
+</html>
