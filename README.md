@@ -2,7 +2,10 @@
 <html lang="en">
 <head>
     <style>
-  script {
+  body {
+    text-align: center;
+  }
+  canvas {
     text-align: center;
   }
 </style>
